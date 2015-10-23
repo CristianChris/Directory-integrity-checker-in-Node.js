@@ -1,4 +1,4 @@
-![alt tag](https://github.com/CristianChris/UTM-SI/tree/master/Lab_1/images/1.png "main image")
+![alt tag](https://github.com/CristianChris/Directory-integrity-files-absolute-path-checker/blob/master/images/1.png "main image")
 ####Objective:
 Understand the purpose of hashing algorithms and create a tool that solves a problem using one of them.
 
@@ -26,7 +26,7 @@ To run our application we need to have already Node.js installed and to download
 node app /path/to/directory/we/want/to/check
 ```
 Expected result:
-![alt tag](https://github.com/CristianChris/UTM-SI/tree/master/Lab_1/images/2.png "result image")
+![alt tag](https://github.com/CristianChris/Directory-integrity-files-absolute-path-checker/blob/master/images/2.png "result image")
 
     As we see above the programme shows all the files from the directory we have selected to check and their hashes.
     After it starts to verify the integrity of the files absolute path comparing newly generated hash with the original one .
